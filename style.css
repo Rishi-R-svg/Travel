@@ -362,6 +362,38 @@ header .contactinfo .sho p {
 
 }
 
+header .contactinfo .btns {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 30%;
+}
+
+
+header .viewsearch{
+  height: 30px;
+  width: 30px;
+ 
+
+
+}
+
+
+
+
+header .cart img{
+  height: 35px;
+  width: 35px;
+}
+
+
+
+header .viewsearch img {
+  height: 30px;
+  width: 30px;
+  margin-right: 20px;
+}
+
 /* THIS IS MAIN ----------------------------- */
 
 .firstsec {
