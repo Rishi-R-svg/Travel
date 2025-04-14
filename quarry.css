@@ -1,0 +1,25 @@
+@media screen and ( max-width : 500px ) {
+    header {
+        max-width: 50vw;
+        display: flex;
+        justify-content: start;
+        padding-left: 0;
+        width: 100vw;
+
+       
+    }
+
+    header .navopt {
+        height: 100%;
+        width: 100%;
+
+    }
+
+    header .logo {
+        margin-right: 0;
+    }
+
+    header > ul > li > a {
+        margin-right: 0;
+    }
+}

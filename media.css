@@ -1,0 +1,1959 @@
+@media (width < 1360px) {
+    header .navopt {
+        height: 100%;
+        width: 40%;
+       margin: 20px 50px;
+       display: flex;
+      align-items: center;
+      position: relative;
+     
+    }
+
+    header {
+        padding-left: 20px;
+       
+
+    }
+
+    header .navopt ul {
+       width: 100%;
+       display: flex;
+       justify-content: space-between;
+    }
+
+
+    header .navopt ul li a {
+        margin-right: 10px;
+       height: 100%;
+       width: 100%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+
+    }
+
+
+
+    header .navopt ul li {
+        height: 30px;
+        width: 100px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+
+
+    header .logo {
+        height: 60px;
+        width: 150px;
+        margin-right: 20px;
+    }
+
+
+
+    header .contactinfo {
+        height: 100px;
+        width: 800px;
+    }
+
+
+    .firstsec {
+        padding-bottom: 50px;
+    }
+
+
+
+
+    .secondsec {
+        justify-content: space-evenly;
+        padding: 0 50px;
+       
+    }
+
+    .secondsec .content {
+        margin-right: 30px;
+
+    }
+
+
+    .fifthsec {
+        height: 70vh;
+    }
+
+
+
+    .sixthsec .first {
+        padding-right: 10px;
+    }
+
+    .sixthsec .partb button {
+        width: 200px;
+        padding: 20px 30px;
+        margin: 20px 10px;
+    }
+
+
+    .eighthsec .f-text >p {
+        font-size: 1.3rem;
+
+    }
+
+   
+
+.ninethsec .cbox .bx p {
+    font-size: 1.5rem;
+}
+
+
+}
+
+
+
+@media (width < 1320px) {
+    
+     .thirdsec  .boxes > p  {
+        font-size: 0.8rem;
+    }
+
+    .fourthsec > .container > .third  span {
+        font-size: 1.3rem;
+    }
+}
+
+
+@media (width < 1212px) {
+    .secondsec .image {
+        height: 600px;
+        width: 40%;
+    }
+
+    .secondsec .content {
+        height: 600px;
+        width: 40%;
+    }
+
+
+
+    .secondsec .content > p {
+        font-size: 1.4rem;
+    }
+
+    .secondsec .content > .checked-icon {
+
+        font-size: 0.8rem;
+
+    }
+
+
+    .seventhsec .dfirst {
+        height: 350px;
+        width: 350px;
+    }
+
+    .seventhsec .dsecond {
+        height: 350px;
+        width: 500px;
+    }
+
+    .seventhsec .dthird {
+        height: 350px;
+        width: 350px;
+    }
+
+
+    .seventhsec .txt h1 {
+        font-size: 1.8rem;
+    }
+
+    .seventhsec .txt h2 {
+        font-size: 2.8rem;
+    }
+
+
+
+
+
+
+
+
+
+    .secondsec .content > h1 {
+        font-size: 2.5rem;
+        /* margin: ; */
+    }
+
+    .secondsec .image img {
+        height: 100%;
+        width: 100%;
+    }
+
+
+    .fifthsec {
+        height: 60vh;
+    }
+
+    .foot .bxes .imp  {
+        /* padding: 10px 30px; */
+        width: 90%;
+    }
+}
+
+
+@media (width < 1158px) {
+
+
+
+    .secondsec .content h1 {
+       font-size: 2.2rem;
+    }
+
+
+    .firstsec h1 {
+        font-size: 4rem;
+        text-align: center;
+    }
+
+    .firstsec p {
+        font-size: 1.2rem;
+    }
+
+
+
+
+
+
+}
+
+
+@media (width < 1127px) {
+  
+
+    .eighthsec .questions > p {
+        font-size: 3rem;
+    }
+
+
+    .thirdsec .contain .boxes {
+        height: 400px;
+        width: 400px;
+    }
+
+    .thirdsec .contain {
+        column-gap: 1rem;
+    }
+
+
+    .foot .first-footer {
+        padding: 50px;
+    }
+
+     .bxesa {
+        width: 300px;
+     }
+
+
+     .fifthsec .content .para h1 {
+        font-size: 3rem;
+     }
+
+     .fifthsec {
+        height: 40vh;
+     }
+
+     .fifthsec .content .para h2 {
+        font-size: 1.3rem;
+     }
+
+     .fifthsec .content .baimg {
+        height: 150px;
+        width: 150px;;
+     }
+
+     .fifthsec .content .baimg::after {
+        top: 35px;
+        left: 35px;
+       
+     }
+
+     header .contactinfo .btns span  {
+        font-size: 0.8rem;
+     }
+
+     .fifthsec > .content > .para h2 {
+       font-size: 1rem;
+     }
+
+     .fifthsec .content .para h1 {
+        font-size: 2rem;
+     }
+
+     
+
+
+
+}
+
+
+@media (width < 1100px){
+    header .logo {
+        height: 40px;
+        width: 140px;
+    }
+
+    header .navopt ul li a {
+        font-size: 0.8rem;
+    }
+
+    .sixthsec .parta .textcontent .second .wrap >div {
+        font-size: 0.87em;
+    }
+
+    
+.sixthsec .parta .textcontent .first h2 {
+    font-size: 2rem;
+}
+
+.sixthsec .parta .textcontent .first h1 {
+    font-size: 1.8rem;
+}
+
+.sixthsec .parta .textcontent .first p {
+    font-size: 0.9rem;
+}
+
+.partb .tbox button {
+    margin: 0;
+}
+
+.sixthsec > .partb .tbox  {
+   padding: 20px 30px;
+}
+
+
+footer .foot .first-footer {
+    padding: 60px;
+}
+
+
+
+
+
+
+}
+
+
+@media (width < 1050px) {
+    .secondsec .content button {
+        padding: 20px 60px;
+    }
+}
+
+
+@media (width < 945px ) {
+    header .contactinfo .btns span  {
+        font-size: 0.6rem;
+     }
+
+     .contactinfo .sho span {
+        font-size: 0.8rem;
+     }
+
+}
+
+
+
+@media (width < 948px) {
+    .firstd h1 {
+        font-size: 3.5rem;
+        line-height: 80px;
+    }
+
+
+    .firstd button {
+        padding: 20px 40px;
+        font-family: Arial, Helvetica, sans-serif;
+        font-weight: bold;
+        font-size: 1rem;
+    }
+
+
+    .secondsec > .image {
+        height: 400px;
+    }
+
+    .secondsec > .content {
+        height: 400px;
+    }
+
+    .secondsec .content h2 {
+        font-size: 1.5rem;
+    }
+
+    .secondsec .content h1 {
+        font-size: 1.8rem;
+        line-height: 40px;
+    }
+
+
+    .secondsec .content p {
+       font-size: 1rem;
+       margin-bottom: 20px;
+       margin-top: 20px;
+    }
+
+    .secondsec {
+        margin-bottom: 100px;
+    }
+
+    .secondsec .content button {
+        padding: 15px 50px;
+    }
+
+    .thirdsec>h1 {
+        font-size: 2rem;
+    }
+
+    .thirdsec>h3 {
+        font-size: 1.2rem;
+    }
+
+    .boxes > h2 {
+        font-size: 1.2rem;
+        letter-spacing: 2px;
+    }
+
+    .boxes> span > a {
+        font-size: 0.8rem;
+    }
+
+
+    .thirdsec .contain .boxes {
+        height: 350px;
+        white-space: 350px;
+    }
+
+    .thirdsec .boxes > p {
+        font-size: 0.6rem;
+    }
+
+    .fourthsec > .container > .first > h1  {
+        font-size: 1.3rem;
+    }
+
+    .fourthsec > .container > .first > p {
+        font-size: 1.3rem;
+    }
+
+    .fourthsec > .container > .second {
+        font-size: 1rem;
+    }
+
+
+    .fourthsec > .container > .third span {
+        font-size: 1rem;
+    }
+
+    .fourthsec > .container > .third p {
+        font-size: 1.1rem;
+    }
+
+    .fifthsec {
+        height: 40vh;
+       
+    }
+
+    .fifthsec .content .para h1 {
+        font-size: 2rem;
+    }
+
+
+    .fifthsec .content .baimg {
+        height: 100px;
+        width: 100px;
+    }
+
+    .fifthsec .content .baimg::after {
+        height: 40px;
+        width: 40px;
+        top: 30px;
+        left: 30px;
+    }
+
+
+    
+    .sixthsec .parta > .imgbox > .ovr {
+        height: 200px;
+        width: 300px;
+    }
+
+    .sixthsec .parta .textcontent .second .wrap  {
+       height: 100%;
+       width: 100%;
+    }
+
+    .partb .tbox h1 {
+        font-size: 2.2rem;
+    }
+
+    .partb .tbox p {
+        font-size: 1rem;
+    }
+
+    .sixthsec .partb button  {
+        padding: 10px 20px;
+      font-size: 1rem;
+      margin-right: 10px;
+    }
+
+    .sixthsec {
+        padding-top: 100px;
+    }
+
+
+    .sixthsec > .partb .tbox {
+        padding: 50px 20px;
+    }
+
+    .sixthsec > .partb {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .eighthsec .wrapper {
+        height: 600px;
+        width: 50%;
+    }
+
+    .eighthsec .questions {
+        height: 600px;
+        width: 50%;
+    }
+
+
+ 
+.eighthsec .f-text > p {
+    font-size: 1rem;
+    margin-bottom: 10px;
+}
+
+
+.eighthsec .f-text .cont {
+    margin-top: 10px;
+}
+
+
+.eighthsec .f-text .quote {
+    height: 50px;
+    width: 50px;
+}
+
+
+
+.eighthsec .questions >h1 {
+    font-size: 1.5rem;
+}
+
+.eighthsec .questions > p {
+    font-size: 2rem;
+
+    
+}
+
+.eighthsec .questions .accordian {
+    width: 400px;
+}
+
+.eighthsec .questions .accordian li label {
+    font-size: 1rem;
+}
+
+
+.eighthsec .accordian .content p{
+    font-size: 0.8rem;
+}
+
+footer .foot .first-footer {
+    padding: 10px;
+    column-gap: 1.5rem;
+}
+
+footer .foot .second-footer {
+    padding: 10px;
+}
+
+.foot .bxesa {
+    padding-right: 30px;
+}
+
+.foot .bxes .imp input {
+    font-size: 1rem;
+    padding-left: 15px;
+}
+
+footer .foot .box p {
+    font-size: 1.2rem;
+}
+
+footer .foot .box span {
+    font-size: 1.2rem;
+}
+
+.foot .bxes h1 {
+    font-size: 1.1rem;
+}  
+
+.last {
+    height: 50px;
+}
+
+
+
+}
+
+
+@media (width < 871px) {
+    .secondsec .content h1 {
+        font-size: 1.4rem;
+    }
+
+    .secondsec .content h2 {
+        font-size: 1.1rem;
+    }
+
+    .secondsec .content p {
+        font-size: 0.9rem;
+    }
+
+    .secondsec .content > .checked-icon {
+        font-size: 0.6rem;
+    }
+
+    .fourthsec > .container > .first > h1 {
+        font-size: 1.1rem;
+    }
+
+    .sixthsec .parta .textcontent .second .wrap >div {
+        font-size: 0.6rem;
+    }
+
+    .sixthsec .parta .textcontent .first p {
+        line-height: 15px;
+        font-size: 0.6rem;
+    }
+
+    .sixthsec .parta .textcontent .first h2 {
+        font-size: 1.5rem;
+    }
+
+    .sixthsec .parta .textcontent .first h1 {
+        font-size: 1.2rem;
+    }
+
+    .partb .tbox p {
+        font-size: 0.8rem;
+    }
+
+    .sixthsec .partb button {
+        padding: 5px 10px;
+       
+       
+    }
+
+    .sixthsec > .partb .tbox {
+        padding: 50px 10px;
+        padding-bottom: 20px;
+    }
+
+    .partb .image {
+        height: 120px;
+    }
+
+    .eighthsec .f-text .cont .te h2 {
+        font-size: 1.1rem;
+    }
+
+    .eighthsec .f-text .cont .te p {
+        font-size: 1rem;
+    }
+
+    .eighthsec .f-text > p {
+        font-size: 0.8rem;
+    }
+
+
+    .eighthsec .questions .accordian {
+        width: 350px;
+    }
+
+    .eighthsec .questions .accordian li label {
+        font-size: 0.8rem;
+    }
+
+    .eighthsec .accordian .content {
+        font-size: 0.6rem;
+    }
+
+    .ninethsec .cbox .atag ul {
+        column-gap: 1.1rem;
+    }
+
+    .foot .bxesa {
+        padding-right: 50px;
+    }
+
+    .foot .bxesb {
+        margin-right: 20px;
+    }
+
+    header .logo {
+        width: 100px;
+    }
+
+   .fifthsec {
+    height: 30vh;
+   }
+    
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media (width < 846px) {
+    header .navopt {
+        display: none;
+    }
+
+    header {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    }
+
+     header .mediamenu {
+      display: block;
+       height: 50px;
+       width: 50px;
+       position: relative;
+      
+     
+       
+    }
+
+
+
+     header .contactinfo {
+        width: 250px;
+        justify-content: end;
+    }
+
+    header .logo {
+        margin-left: 200px;
+        height: 40px;
+        width: 90px;
+    }
+
+    header .contactinfo .sho {
+        margin-right: 10px;
+        padding-right: 20px;
+    }
+
+   
+
+
+
+}
+
+
+
+@media (width < 835px ) {
+    .sixthsec .partb button {
+        padding: 5px 10px;
+        font-size: 0.8rem;
+        width: 150px;
+    }
+
+    .tenthsec .conte::before {
+        left: 32%;
+
+    }
+
+    .seventhsec .dfirst {
+        height: 300px;
+      
+    }
+
+    .seventhsec .dsecond {
+        height: 300px;
+    }
+
+    .seventhsec .dthird {
+        height: 300px;
+    }
+
+    .seventhsec .txt h2 {
+        font-size: 2.2rem;
+    }
+
+    .foot .bxesa {
+        min-width: 225px;
+    }
+
+    footer .foot .first-footer {
+       flex-direction: column;
+       align-items: center;
+    }
+
+    footer .foot .second-footer {
+        display: grid;
+        grid-template: 1fr 1fr / 1fr 1fr;
+        gap: 10px;
+    }
+
+    .foot .bxes {
+        width: 250px;
+        padding-left: 40px;
+        height: 150px;
+    }
+
+    .foot .bxesa {
+        width: 400px;
+    }
+    
+}
+
+
+@media (width < 800px) {
+    .ninethsec .cbox .atag ul {
+        column-gap: 0.8rem;
+    }
+     
+
+
+    .firstsec {
+        height: 90vh;
+        background: url(banner-2.jpg);
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+       
+    }
+
+    .firstsec .shape {
+        display: none;
+    }
+
+    .firstsec .im img {
+        scale: 2;
+    }
+
+
+
+    .firstd h1 {
+        font-size: 5rem;
+        line-height: 120px;
+    }
+
+    .firstsec .firstd {
+        padding-top: 200px;
+    }
+
+    .firstd button {
+        padding: 40px 150px;
+        font-size: 1.5rem;
+    }
+
+    .secondsec {
+        flex-direction: column;
+        padding: 0;
+        margin-top: 200px;
+    }
+
+    .secondsec > .image {
+        width: 100%;
+        height: 50%;
+    }
+
+
+    .secondsec > .content {
+        width: 100%;
+        height: 50%;
+        padding: 40px;
+    }
+
+    .secondsec .content h2 {
+        font-size: 1.8rem;
+    }
+
+    .secondsec .content > h1 {
+        font-size: 3.5rem;
+        letter-spacing: 3px;
+        line-height: 80px;
+    }
+
+    .secondsec .content p {
+        font-size: 2rem;
+        margin: 50px 0;
+    }
+
+
+    .secondsec .content > .checked-icon {
+        font-size: 1.5rem;
+    }
+
+    .secondsec .content button {
+        padding: 40px 100px;
+        font-size: 1.5rem;
+    }
+
+
+    .thirdsec>h1 {
+        font-size: 3rem;
+    }
+
+    .thirdsec {
+        margin-top: 80px;
+    }
+
+    .thirdsec .contain {
+      display: grid;
+      grid-template-rows: repeat(2, 55%);
+      grid-template-columns: repeat(2,50%);
+      width: 100%;
+      gap: 2rem;
+      padding: 20px;
+      justify-content: start;
+      align-items: start;
+    }
+
+    .thirdsec .contain .boxes {
+        width: 100%;
+        height: 100%;
+        
+    }
+
+    .boxes > h2 {
+        font-size: 2rem;
+    }
+
+    .thirdsec .boxes > p {
+        font-size: 1.2rem;
+        padding: 0 20px;
+    }
+
+    .boxes> span > a {
+        font-size: 1.2rem;
+        color: rgb(57, 160, 57);
+    }
+
+
+    .fourthsec {
+        width: 100%;
+        margin-top: 150px;
+        height: 50vh;
+    }
+
+
+    .fourthsec > .container {
+        width: 100%;
+        height: 60%;
+       flex-direction: column;
+       display: block;
+       padding: 20px;
+    }
+
+    .fourthsec > .container > .third p {
+        font-size: 1.5rem;
+        color: rgb(240, 168, 59);
+    }
+   
+    .fourthsec > .container > .third span {
+        font-size: 1.3rem;
+    }
+
+    
+   
+
+    .fourthsec > .container .a {
+        width: 100%;
+        height: 30%;
+        padding: 20px;
+        
+    }
+
+    .fourthsec > .container > .first > h1 {
+        font-size: 1.5rem;
+    }
+
+    .fourthsec > .container > .second {
+       
+        justify-content: start;
+        font-size: 1.5rem;
+    }
+
+    .fourthsec > .container > .first > p {
+        font-size: 2rem;
+    }
+
+    .fourthsec > .container > .third span {
+        font-size: 1.5rem;
+    }
+
+
+    .fifthsec > .content {
+        flex-direction: column;
+    }
+
+   .fifthsec {
+    height: 70vh;
+    background: url(video-bg.jpg);
+    width: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    
+   }
+
+   .fifthsec > .image {
+    display: none;
+   }
+
+   .fifthsec::after {
+    content: ' ';
+    height: 100%;
+    width: 100%;
+    background-color: rgba(0, 0, 0, 0.5);
+   }
+
+   .fifthsec .content {
+    justify-content: start;
+    padding-top: 100px;
+   }
+
+   .fifthsec .playbtn {
+    height: 30%;
+   }
+
+   .fifthsec > .content > .para {
+    height: 50%;
+    width: 100%;
+    margin-bottom: 50px;
+   }
+
+
+   .fifthsec > .content > .para h2 {
+    font-size: 2rem;
+   }
+
+
+   .fifthsec .content .para h1 {
+    font-size: 3.2rem;
+   }
+
+   .fifthsec .content .para h1> br {
+    display: none;
+   }
+
+   .fifthsec .playbtn .baimg::after {
+    top: 60px;
+    left: 60px;
+    height: 80px;
+    width: 80px;
+   }
+
+
+   .fifthsec .playbtn .baimg {
+    height: 200px;
+    width: 200px;
+   }
+
+   .sixthsec {
+    flex-direction: column;
+    padding: 20px;
+    padding-top: 100px;
+   }
+
+   .sixthsec > .parta {
+    width: 100%;
+    height: 50%;
+    margin-bottom: 50px;
+   }
+
+
+   .sixthsec .parta .textcontent .first h2 {
+    font-size: 2.5rem;
+   }
+
+   .sixthsec .parta > .imgbox {
+   width: 100%;
+   height: 50%;
+   }
+
+   .sixthsec .parta > .imgbox > .ovr {
+    height: 300px;
+    width: 500px;
+   }
+
+   .sixthsec .parta .textcontent .first h1 {
+    font-size: 3rem;
+   }
+
+   .sixthsec .parta .textcontent .first h2 {
+    font-size: 4rem;
+   }
+
+   .sixthsec .parta > .textcontent {
+    flex-direction: column;
+   }
+
+   .sixthsec .parta .textcontent .first {
+    width: 100%;
+   }
+
+
+   .sixthsec .parta .textcontent .first p {
+    font-size: 1.5rem;
+    line-height: 40px;
+   }
+
+   .sixthsec .parta .textcontent .second .wrap >div {
+    font-size: 1.3rem;
+    width: 70%;
+    padding: 20px 50px;
+    
+   }
+
+   .sixthsec .parta .textcontent .second {
+    width: 100%;
+   }
+
+   .sixthsec .parta .textcontent .second .wrap >div::before {
+    top: 27px;
+   }
+
+   .sixthsec > .partb {
+    width: 100%;
+   }
+
+   .partb .image {
+    position: relative;
+    height: 400px;
+   }
+
+   .partb .image img {
+    display: none;
+   }
+
+   .partb .image::after {
+    content: " ";
+    position: absolute;
+    top: 0;
+    left: 0;
+    background: url(belowbtn.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100%;
+    width: 100%;
+   }
+
+
+
+   .sixthsec > .partb .tbox {
+    height: 400px;
+    width: 100%;
+    padding: 30px 100px;
+   }
+
+
+   .partb .tbox h1 {
+    font-size: 4rem;
+   }
+
+   .partb .tbox p {
+    font-size: 1.6rem;
+    line-height: 60px;
+   }
+
+   .partb .tbox button {
+    padding: 30px 0px;
+    width: 300px;
+    font-size: 1.5rem;
+   }
+
+   .seventhsec {
+    padding: 30px 20px;
+    margin-bottom: 60px;
+   }
+
+   .seventhsec .txt h2 {
+   font-size: 2.5rem;
+   }
+
+   .seventhsec .txt h1 {
+    font-size: 2rem;
+   }
+
+
+   .eighthsec {
+    flex-direction: column;
+   }
+
+   .eighthsec .wrapper {
+    width: 100%;
+    height: 60%;
+    margin-bottom: 50px;
+   }
+
+
+   .eighthsec .f-text > p {
+    font-size: 1.5rem;
+   }
+
+   .eighthsec .f-text {
+    width: 100%;
+   }
+
+   .eighthsec .f-text .cont .te h2 {
+    font-size: 1.5rem;
+   }
+
+   .eighthsec .questions {
+    width: 100%;
+    /* padding-left: 100px; */
+    display: flex;
+    /* justify-content: center; */
+    align-items: center;
+    flex-direction: column;
+    height: 800px;
+    background-color: rgba(61, 30, 21, 1);
+   }
+
+   .eighthsec .questions .accordian li label {
+    font-size: 1.8rem;
+    padding: 20px 30px;
+    background-color: rgba(255, 255, 255, 0.1);
+   }
+
+   .eighthsec .questions .accordian {
+    width: 700px;
+   }
+
+   .eighthsec .questions > p {
+    margin: 20px 0px;
+    font-size: 2.8rem;
+   }
+
+   .eighthsec .questions >h1 {
+    margin: 20px 0 ;
+    font-size: 1.8rem;
+    color: rgb(255, 230, 8);
+   }
+
+   .eighthsec .accordian .content p {
+    font-size: 1.5rem;
+   }
+
+
+   .ninethsec .cbox {
+    flex-direction: column;
+    align-items: center;
+   }
+
+   .ninethsec .cbox .bx {
+    width: 90%;
+    margin-bottom: 50px;
+   }
+
+   .ninethsec h1 {
+    font-size: 2.8rem;
+   }
+
+   .ninethsec h2 {
+    font-size: 3.5rem;
+   }
+
+   .ninethsec .cbox .bx li {
+    font-size: 1.8rem;
+   }
+
+   .ninethsec .cbox .atag ul {
+    justify-content: space-evenly;
+    padding: 0 80px;
+   }
+
+   .ninethsec .cbox .bx .add::before {
+    height: 27px;
+    width: 27px;
+    left: -40px;
+    top: 4px;
+   }
+
+   .ninethsec .cbox .bx .bdd::before {
+    height: 27px;
+    width: 27px;
+    left: -40px;
+    top: 4px;
+   }
+
+   .ninethsec .cbox .bx p {
+    font-size: 2.5rem;
+    text-align: center;
+    margin: 100px 0;
+    margin-top: 50px;
+   }
+
+   .tenthsec .conte {
+    width: 80%;
+   }
+
+   .tenthsec .conte::before {
+    font-size: 2.8rem;
+    left: 28%;
+   }
+
+   header .logo {
+    width: 150px;;
+    height: 75px;
+    /* margin-bottom: 200px; */
+   
+    
+
+}
+
+header .sho {
+    display: none;
+}
+
+ 
+
+   header .contactinfo .sho p {
+    font-size: 1.2rem;
+    color: rgb(240, 168, 59);
+   }
+
+   header .contactinfo {
+    width: 400px;
+    margin-right: 10px;
+    gap: 20px;
+   }
+
+   .contactinfo .sho span {
+    font-size: 1.2rem;
+   }
+
+   header .contactinfo .sho {
+    padding: 0 20px 0 0;
+   }
+
+   header .contactinfo .btns span {
+    font-size: 1.2rem;
+   }
+
+   header .contactinfo .btns {
+    width: 150px;
+   }
+
+   
+
+}
+
+
+@media (width < 700px){
+
+    .fifthsec .content .para h1 {
+        font-size: 2.8rem;
+    }
+
+    .fifthsec .content {
+        padding: 30px 40px;
+    }
+
+    .fifthsec {
+        height: 45vh;
+    }
+
+    .fifthsec .playbtn .baimg {
+        height: 100px;
+        width: 100px;
+        margin-top: 30%;
+    }
+
+    .fifthsec .playbtn .baimg::after {
+        top: 25%;
+        left: 25%;
+        height: 50px;
+        width: 50px;
+
+    }
+
+    .secondsec .content button {
+        padding: 10% 20%;
+    }
+
+    .firstsec .firstd {
+        padding-top: 10%;
+    }
+
+
+    .firstd button {
+        padding: 7% 15%;
+    }
+
+    .firstsec {
+        margin-top: 0;
+        height: auto;
+    }
+
+
+    .firstd h1 {
+        font-size: 400%;
+    }
+
+    .firstsec p {
+        font-size: 200%;
+        text-align: center;
+    }
+
+    .thirdsec .contain {
+        display: block;
+    }
+
+    .thirdsec .contain .boxes {
+        margin-bottom: 50px;
+    }
+
+    .boxes > h2 {
+        font-size: 300%;
+    }
+
+    .thirdsec .boxes > p {
+        font-size: 200%;
+    }
+
+    .boxes> span > a {
+        font-size: 200%;
+    }
+
+    .fifthsec > .content > .para h2 {
+        font-size: 200%;
+    }
+
+    .fifthsec .content .para h1 {
+        font-size: 30px;
+        line-height: 50px;
+    }
+
+    .fifthsec {
+        height: 60vh;
+    }
+
+    .fifthsec .playbtn {
+        margin-top: 5%;
+      
+    }
+
+    .sixthsec .parta > .imgbox {
+       flex-direction: column;
+       width: 100%;
+      
+    }
+
+    .sixthsec .parta > .imgbox > .ovr {
+        width: 100%;
+        margin-bottom: 30px;
+    }
+
+    .sixthsec .parta .textcontent .first h2 {
+        font-size: 350%;
+    }
+
+    .partb .tbox h1 {
+        font-size: 400%;
+    }
+
+    .partb .image {
+        height: 300px;
+    }
+
+    .partb .tbox p {
+        font-size: 150%;
+        line-height: 150%;
+
+    }
+
+    
+
+    .sixthsec > .partb .tbox {
+        height: 40%;
+        padding: 30px 20px;
+    }
+
+    .seventhsec .imgbox {
+        flex-direction: column;
+      gap: 20px;
+    }
+
+    .seventhsec .dfirst {
+        width: 100%;
+        height: 50%;
+    }
+
+    .seventhsec .ovr {
+        width: 100%;
+        height: 50%;
+    }
+
+    .seventhsec .txt h2 {
+        font-size: 300%;
+    }
+
+    .seventhsec .txt h1 {
+        font-size: 250%;
+
+    }
+
+
+    .eighthsec .wrapper {
+        margin-bottom: 0;
+
+    }
+
+    .eighthsec .wrapper .box {
+        padding-bottom: 50px;
+        width: 90%;
+       
+    }
+
+    .eighthsec .questions .accordian {
+        width: 90%;
+    }
+
+    .eighthsec .questions {
+        height: auto;
+    }
+
+    .eighthsec .summary-box {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .ninethsec .cbox .atag ul {
+        /* padding: 10%; */
+        column-gap: 20%;
+        width: 100%;
+        padding: 0;
+        justify-content: start;
+       
+    }
+
+    .ninethsec .cbox .atag ul .non {
+        display: none;
+    }
+
+    .ninethsec .cbox .bx li {
+        font-size: 150%;
+        margin: auto;
+    }
+
+    .ninethsec .cbox .atag {
+        height: 30px;
+        width: 100%;
+    }
+
+    .ninethsec .cbox .bx .add::before {
+        top: 4%;
+        left: -30%;
+        height: 20px;
+        width: 20px;
+    }
+
+    .ninethsec .cbox .bx .bdd::before {
+        top: 4%;
+        left: -30%;
+        height: 20px;
+        width: 20px;
+    }
+
+    .tenthsec .conte::before {
+       left: 20%;
+    }
+
+    footer .foot .fnone {
+        display: none;
+    }
+
+    
+
+    footer .foot .second-footer {
+        display: block;
+    } 
+
+    .foot .bxes {
+        padding-left: 2%;
+    }
+
+    .foot .bxesa {
+        width: 100%;
+    }
+
+
+}
+
+
+@media (width < 600px ) {
+   header .logo {
+    margin-left: 20%;
+    height: 30px;
+    width: 100px;
+   }
+
+  
+
+   header {
+    max-width: 100vw;
+    min-height: auto;
+   }
+
+
+   header .mediamenu {
+    height: 40px;
+    width: 35px;
+   }
+
+   .firstsec {
+    margin-top: 20%;
+   
+   }
+
+   .firstsec .firstd {
+    padding-top: 20%;
+   }
+
+   .firstd h1 {
+    font-size: 400%;
+    line-height: 90px;
+   }
+
+   .fifthsec > .content > .para h2 {
+    font-size: 100%;
+   }
+
+   .tenthsec .conte::before {
+    left: 22%;
+    font-size: 1.8rem;
+   }
+
+
+   .fourthsec > .container {
+    height: auto;
+   }
+
+   .fifthsec {
+    height: 50vh;
+    margin-top: 100px;
+   }
+
+   .fifthsec .playbtn .baimg {
+    height: 100%;
+    width: 100%;
+   }
+
+   .fifthsec .playbtn {
+    height: 100px;
+    width: 100px;
+   
+   }
+
+
+   
+}
+
+
+
+@media ( width < 500px ) {
+    header .mediamenu {
+        min-height: 10px;
+        min-width: 40px;
+    }
+
+    header .logo {
+        margin-left: 20%;
+        min-height: 30px;
+        min-width: 60px;
+    } 
+
+
+    .firstsec p {
+        font-size: 150%;
+        text-align: center;
+        color: rgb(255, 230, 8);
+    }
+
+    .firstd h1 {
+        font-size: 350%;
+        line-height: 80px;
+        margin-bottom: 50px;
+
+    
+} 
+
+
+.thirdsec>h1 {
+    font-size: 2.5rem;
+}
+
+
+.boxes > h2 {
+    font-size: 200%;
+} 
+
+.thirdsec .boxes > p {
+    font-size: 120%;
+} 
+
+
+.boxes> span > a {
+    font-size: 120%;
+
+    
+}
+
+
+.fifthsec {
+    height: 60vh;
+    margin-top: 100px;
+}
+
+.fifthsec .content {
+    padding: 30px 40px;
+    margin-bottom: 50px;
+    justify-content: center;
+    gap: 20px;
+} 
+
+header .contactinfo .btns span {
+    font-size: 1rem;
+}
+
+.partb .tbox button {
+    padding: 30px 0px;
+    width: 100%;
+    font-size: 1.5rem;
+}
+
+.eighthsec .questions > p {
+    margin: 20px 0px;
+    font-size: 2.2rem;
+}
+
+.seventhsec .txt h2 {
+    font-size: 200%;
+}
+
+.seventhsec .txt h1 {
+    font-size: 150%;
+}
+
+.eighthsec .questions .accordian li label {
+    font-size: 1.2rem;
+}
+
+.eighthsec .accordian .content p {
+    font-size: 1.1rem;
+}
+
+
+.thirdsec>h1 {
+    font-size: 2rem;
+} 
+
+.sixthsec .parta .textcontent .first h2 {
+    font-size: 175%;
+}
+
+
+.sixthsec .parta .textcontent .first h1 {
+    font-size: 2rem;
+}
+
+.sixthsec .parta .textcontent .first p {
+    font-size: 1.2rem;
+}
+
+
+.sixthsec .parta .textcontent .second .wrap >div {
+    font-size: 1rem;
+}
+
+
+.secondsec .content > h1 {
+    font-size: 2rem;
+    line-height: 50px;
+}
+
+.secondsec .content p {
+    font-size: 1.3rem;
+}
+
+.secondsec .content > .checked-icon {
+    font-size: 1.1rem;
+}
+
+.secondsec .content button {
+    font-size: 1rem;
+    
+}
+
+.eighthsec .questions > p {
+    font-size: 1.8rem;
+}
+
+.eighthsec .questions .accordian li label {
+    font-size: 1rem;
+    padding: 10px;
+}
+
+.eighthsec .accordian .content p {
+    font-size: 1rem;
+    
+}
+
+.eighthsec .accordian .content  {
+    padding: 10px;
+}
+
+.eighthsec .summary-box  {
+    width: 100vw;
+}
+
+.eighthsec .questions .accordian {
+    width: 100%;
+}
+
+.foot .bxesa {
+    padding-right: 10px;
+    gap: 20px;
+}
+
+
+.foot .bxes .imp {
+    width: 100%;
+   
+}
+
+
+}
+
+@media (width < 378px ) {
+    header .logo img {
+        min-height: 20px;
+        width: 60px;
+    }
+
+
+    .fifthsec {
+        height: 70vh;
+        margin-top: 100px;
+    } 
+
+    header .contactinfo .btns span {
+        font-size: 0.8rem;
+    }
+   
+
+    header .mediamenu {
+        min-height: 20px;
+        min-width: 30px;
+    }
+
+}
+
+
+
+@media (width > 1788px) {
+    header .searchbar .searchbox .sbtn {
+        left: 70%;
+    }
+}
+
+
+
+@media (width > 2492px) {
+    header .searchbar .searchbox .sbtn {
+        left: 65%;
+    }
+} 
+
+
+
+
+@media (width < 1216px) {
+    header .searchbar .searchbox .sbtn {
+        height: 11%;
+        width: 10%;
+    }
+
+    header .searchbar input {
+        height: auto;
+        width: 100%;
+        font-size: 100%;
+    }
+} 
+
+
+@media (width < 992px) {
+    header .searchbar {
+        height: 100px;
+        width: 300px;
+        border-radius: 10px;
+        /* top: 100px; */
+        left: 20%;
+    }
+
+    header .searchbar input {
+        border-radius: 10px;
+
+    }
+
+
+}
+
+
+@media (width < 416px) {
+
+    header .searchbar {
+       
+        left: 5%;
+    }
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
